@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Kairav Bhardwaj
+- 👀 I’m interested in Scala & Clojure
+- 🌱 I’m currently learning Zio
+- 📫 Matrix: @kairav:tchncs.de
